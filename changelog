@@ -1,0 +1,7 @@
+2023.03.02
+-admin.php 1.Szemely vagy admin modal-->Szemelye vagy admin felvetele modal hozzadva, Szemely(5.rang ) vagy admin(10. rang) fiokokat lehet felvenni[regadmin.php letrehozva]
+           2.szemely vagy admin törlése--> még nincs készen, személyeket vagya dminokat lehet törölni ezzela dbből
+
+-user.php  1.Sorszám ujragenerals-->elkezdve,emailre fogja kuldeni a dbbol lekert sorszamot [number.php letrehozva]         
+
+-main_page/login.php 1.validate function torolve
